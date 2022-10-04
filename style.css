@@ -1,0 +1,42 @@
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#main_name {
+    font-weight: 200;
+    font-size: medium;
+}
+
+.instructions {
+    font-variant: normal;
+    font-size: large;
+    font-style: initial;
+}
+
+#result1 {
+    width: 50;
+    height: 50;
+    border-radius: 20%;
+    padding: 40%;
+}
+
+#result2 {
+    width: 50;
+    height: 50;
+    border-radius: 20%;
+    padding: 40%;
+}
+
+#result3 {
+    width: 50;
+    height: 50;
+    border-radius: 20%;
+    padding: 40%;
+}
+
+img:hover{
+    border-radius: 140px;
+}
